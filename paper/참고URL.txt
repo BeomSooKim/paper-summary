@@ -1,0 +1,24 @@
+1. Non max Suppression 설명 슬라이드(Yolo 예시)
+https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.g137784ab86_4_1738
+
+
+2. 논문 리스트
+1) Detection
+yolo 
+ssd
+yolo-v2
+yolo-v3
+Refinenet
+
+
+2) GAN
+lsgan
+dcgan
+cyclegan
+discogan
+began
+
+
+3) time-series
+lstm
+seq2seq
